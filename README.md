@@ -153,7 +153,7 @@ We encourage you to contribute to Colyseus! Please check out the [Contributing
 guide](.github/CONTRIBUTING.md) for guidelines about how to proceed. Join us!
 
 Everyone interacting in Colyseus and its sub-projects' codebases, issue trackers
-and chat rooms is expected to follow the [code of conduct](CODE_OF_CONDUCT.md).
+and chat rooms is expected to follow the [code of conduct](CODE_OF_CONDUCT.md)
 
 # Backers / Supporters via Patreon
 
